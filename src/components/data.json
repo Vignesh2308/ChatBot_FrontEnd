@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "question": ["Hello"],
+        "answer":"Greetings",
+        "options": ["About me", "My Skills", "Go Back"]
+    },
+
+    {
+        "id": 1,
+        "question": ["Web Developer with 2+ years of experience and knowledge on technologies such as React JS, python, Django and Selenium.",
+             "Seeking a challenging position with potential for growth and advancement."],
+        "answer":"About me",
+        "options": ["My Skills", "Tell More About Yourself", "Go Back"]
+    },
+
+    {
+        "id": 2,
+        "question": ["Please select the type of information required"],
+        "answer":"Tell More About Yourself",
+        "options": ["My Skills", "Experience", "Education", "Certification", "Go Back"]
+    },
+
+    {
+        "id": 3,
+        "question": ["SYSTEMS ENGINEER | Infosys Limited, Bangalore (DEC 2018 - Till Date)\nProject = Income Tax Department(CPC)\n\nSOFTWARE DEVELOPER | Shinetek Solutions, Chennai (NOV 2017 – NOV 2018)"],
+        "answer":"Experience",
+        "options": ["Go Back"]
+    },
+
+    {
+        "id": 3,
+        "question": ["BACHELOR OF ENGINEERING\nAnand Institute of Higher Technology\n(2013– 2017) with 7.2 CGPA"],
+        "answer":"Education",
+        "options": ["Go Back"]
+    },
+
+    {
+        "id": 3,
+        "question": ["External=>\nPython (Basic) - Hacker Rank.\n\nInternal=>\nInfosys Certified Python Associate.\nInfosys Certified Front End Web Developer - 101.\nInfosys Global Agile Developer Certification.\nInfosys Certified Selenium Using Python.\nInfosys Certified Python Programmer."],
+        "answer":"Certification",
+        "options": ["Go Back"]
+    },
+
+    {
+        "id": 3,
+        "question": ["Please Select the skill type from below..!!"],
+        "answer":"My Skills",
+        "options": ["Client Side", "Server Side", "Database", "Automation and Testing Framework", "Tools and Utilities", "Go Back"]
+    },
+
+    {
+        "id": 4,
+        "question": ["HTML, CSS, Java Script, React JS, Jquery"],
+        "answer":"Client Side",
+        "options": ["Go Back"]
+    },
+
+    {
+        "id":4,
+        "question": ["Python, Java, Django Framework"],
+        "answer":"Server Side",
+        "options": ["Go Back"]
+    },
+
+    {
+        "id":4,
+        "question": ["Oracle DB, MS Sql"],
+        "answer":"Database",
+        "options": ["Go Back"]
+    },
+
+    {
+        "id":4,
+        "question": ["Selenium, Pytest"],
+        "answer":"Automation and Testing Framework",
+        "options": ["Go Back"]
+    },
+
+    {
+        "id":4,
+        "question": ["GIT, Maven, AWS (Elastic Bean)"],
+        "answer":"Tools and Utilities",
+        "options": ["Go Back"]
+    }
+
+
+]
